@@ -1,0 +1,86 @@
+[
+	{
+		"name": "earth",
+		"subTypes": [
+			{
+				"name": "stone"
+			},
+			{
+				"name": "metal"
+			},
+			{
+				"name": "soil"
+			},
+		]
+	},
+	{
+		"name": "water",
+		"subTypes": [
+			{
+				"name": "sea"
+			},
+			{
+				"name": "fresh"
+			},
+			{
+				"name": "ice"
+			},
+		]
+	},
+	{
+		"name": "plant",
+		"subTypes": [
+			{
+				"name": "hydrophye"
+			},
+			{
+				"name": "xerophile"
+			},
+			{
+				"name": "embryophya"
+			},
+		]
+	},
+	{
+		"name": "energy",
+		"subTypes": [
+			{
+				"name": "fire"
+			},
+			{
+				"name": "air"
+			},
+			{
+				"name": "electric"
+			},
+		]
+	},
+	{
+		"name": "contaigen",
+		"subTypes": [
+			{
+				"name": "poison"
+			},
+			{
+				"name": "fungle"
+			},
+			{
+				"name": "paracitic"
+			},
+		]
+	},
+	{
+		"name": "???",
+		"subTypes": [
+			{
+				"name": "light"
+			},
+			{
+				"name": "spiritual"
+			},
+			{
+				"name": "dark"
+			},
+		]
+	},
+]

@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://cwa8r53gcuc7q"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_7u061"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_3glj4"]
+
+[node name="CharacterBody3D" type="CharacterBody3D"]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("BoxShape3D_7u061")
+
+[node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
+sprite_frames = SubResource("SpriteFrames_3glj4")
+
+[node name="Levels" type="Node" parent="."]

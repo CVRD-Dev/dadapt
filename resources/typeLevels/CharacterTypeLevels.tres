@@ -1,0 +1,18 @@
+[gd_resource type="Resource" script_class="CharacterLevels" load_steps=8 format=3]
+
+[ext_resource type="Resource" uid="uid://txfr7y20g72p" path="res://resources/typeLevels/ContagionTypeLEvels.tres" id="1_jd4it"]
+[ext_resource type="Resource" uid="uid://cuvea3xcq12uq" path="res://resources/typeLevels/EnergyTypeLevel.tres" id="2_ntfxt"]
+[ext_resource type="Script" path="res://scripts/resources/CharacterTypeLevels.gd" id="3_g2yn4"]
+[ext_resource type="Resource" uid="uid://cyhuaqbtc71jo" path="res://resources/typeLevels/UnkownTypeLevels.tres" id="3_s4mu1"]
+[ext_resource type="Resource" uid="uid://d2di3a3jbj76v" path="res://resources/typeLevels/EarthTypeLevel.tres" id="4_3o0lg"]
+[ext_resource type="Resource" uid="uid://bb0ftqjefb33m" path="res://resources/typeLevels/PlantTypeLevel.tres" id="5_gqoo1"]
+[ext_resource type="Resource" uid="uid://dlhvmm1q832a6" path="res://resources/typeLevels/WaterTypeLevel.tres" id="7_tfwqv"]
+
+[resource]
+script = ExtResource("3_g2yn4")
+earthLevels = ExtResource("4_3o0lg")
+waterLevels = ExtResource("7_tfwqv")
+plantLevels = ExtResource("5_gqoo1")
+EnergyLevels = ExtResource("2_ntfxt")
+ContagionLevels = ExtResource("1_jd4it")
+UnkownLevels = ExtResource("3_s4mu1")

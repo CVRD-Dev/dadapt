@@ -1,0 +1,37 @@
+[gd_resource type="Resource" script_class="TypeLevel" load_steps=6 format=3 uid="uid://bb0ftqjefb33m"]
+
+[ext_resource type="Script" path="res://scripts/resources/TypeLevel.gd" id="1_3sb7s"]
+[ext_resource type="Script" path="res://scripts/resources/SubTypeLevel.gd" id="2_ty465"]
+
+[sub_resource type="Resource" id="Resource_mg8c6"]
+script = ExtResource("2_ty465")
+subtype = 6
+current_xp = 0
+max_level_xp = 10
+current_level = 1
+
+[sub_resource type="Resource" id="Resource_merww"]
+script = ExtResource("2_ty465")
+subtype = 7
+current_xp = 0
+max_level_xp = 10
+current_level = 1
+
+[sub_resource type="Resource" id="Resource_sb1ju"]
+script = ExtResource("2_ty465")
+subtype = 8
+current_xp = 0
+max_level_xp = 10
+current_level = 1
+
+[resource]
+script = ExtResource("1_3sb7s")
+type = 2
+subTypeLevels = {
+6: SubResource("Resource_mg8c6"),
+7: SubResource("Resource_merww"),
+8: SubResource("Resource_sb1ju")
+}
+current_xp = 0
+max_level_xp = 10
+current_level = 1

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dki4frbd107m3"
+path="res://.godot/imported/Swipe.wav-a0b15d65f74e9a2b0403e7aac23ac86f.sample"
+
+[deps]
+
+source_file="res://resources/art/Action RPG Resources/Music and Sounds/Swipe.wav"
+dest_files=["res://.godot/imported/Swipe.wav-a0b15d65f74e9a2b0403e7aac23ac86f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,37 @@
+[gd_resource type="Resource" script_class="TypeLevel" load_steps=6 format=3 uid="uid://txfr7y20g72p"]
+
+[ext_resource type="Script" path="res://scripts/resources/TypeLevel.gd" id="1_j0da0"]
+[ext_resource type="Script" path="res://scripts/resources/SubTypeLevel.gd" id="2_7pcnc"]
+
+[sub_resource type="Resource" id="Resource_h2ny5"]
+script = ExtResource("2_7pcnc")
+subtype = 12
+current_xp = 0
+max_level_xp = 10
+current_level = 1
+
+[sub_resource type="Resource" id="Resource_t5ee7"]
+script = ExtResource("2_7pcnc")
+subtype = 13
+current_xp = 0
+max_level_xp = 10
+current_level = 1
+
+[sub_resource type="Resource" id="Resource_ldqr2"]
+script = ExtResource("2_7pcnc")
+subtype = 14
+current_xp = 0
+max_level_xp = 10
+current_level = 1
+
+[resource]
+script = ExtResource("1_j0da0")
+type = 4
+subTypeLevels = {
+12: SubResource("Resource_h2ny5"),
+13: SubResource("Resource_t5ee7"),
+14: SubResource("Resource_ldqr2")
+}
+current_xp = 0
+max_level_xp = 10
+current_level = 1

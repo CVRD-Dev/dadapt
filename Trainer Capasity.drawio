@@ -1,0 +1,330 @@
+<mxfile host="Electron" modified="2023-04-22T06:14:48.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="r4UwGx_Jeg_0tggSGzLn" version="21.2.1" type="device">
+  <diagram name="Page-1" id="fPvmq0KqETSOEjMPAve5">
+    <mxGraphModel dx="1212" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="we8sBcvKA32T3TL_2Bq6-1" target="we8sBcvKA32T3TL_2Bq6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-1" value="Trainer lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-2" value="Trainer Capasity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="we8sBcvKA32T3TL_2Bq6-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="395" as="targetPoint" />
+            <mxPoint x="390" y="285.003861003861" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="380" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-9" value="Trainer Capasity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="753" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="767.94" as="sourcePoint" />
+            <mxPoint x="365" y="767.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-11" value="Monster&#39;s Trainable lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="753" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="390" y="310" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-4" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-12">
+          <mxGeometry width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-5" value="As the trainer lvl increases, so does the trainers capacity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-12">
+          <mxGeometry x="25" y="1" width="90" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-13" value="Monster&#39;s Trainable lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="340" y="450" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-14">
+          <mxGeometry width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-16" value="The base difficultly to train." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-14">
+          <mxGeometry x="25" y="1" width="65" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-18" value="what are those lvls and what are the values?" style="shape=display;whiteSpace=wrap;html=1;fontSize=8;align=right;strokeColor=#C3ABD0;fontColor=#C3ABD0;size=0.1111111111111111;" vertex="1" parent="1">
+          <mxGeometry x="430" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="767.9200000000001" as="sourcePoint" />
+            <mxPoint x="450" y="767.9200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-21" value="Monster&#39;s current lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="753" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#C3ABD0;strokeColor=#C3ABD0;" edge="1" parent="1" source="we8sBcvKA32T3TL_2Bq6-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479" y="752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-22" value="lvl one to one? or &lt;br&gt;lvl -&amp;gt; some value" style="shape=display;whiteSpace=wrap;html=1;fontSize=8;align=right;strokeColor=#C3ABD0;fontColor=#C3ABD0;size=0.1111111111111111;" vertex="1" parent="1">
+          <mxGeometry x="499" y="690" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-26" value="Type Familiarity lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="753" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-27" value="Type Familiarity lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="530" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="763" width="10" height="10.000000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="we8sBcvKA32T3TL_2Bq6-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="4.830000000000155" as="sourcePoint" />
+            <mxPoint x="10" y="4.830000000000155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="we8sBcvKA32T3TL_2Bq6-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" as="sourcePoint" />
+            <mxPoint x="5" y="10.000000000000114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="340" y="535" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-35" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-34">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-36" value="LVL 1-10 of a sub type.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-34">
+          <mxGeometry x="25" y="0.5" width="65" height="29.500000000000007" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="520" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-38" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-37">
+          <mxGeometry width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-39" value="If 0 then this value will be negative" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-37">
+          <mxGeometry x="25" y="1" width="65" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="763" width="10" height="10.000000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="we8sBcvKA32T3TL_2Bq6-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="4.830000000000155" as="sourcePoint" />
+            <mxPoint x="10" y="4.830000000000155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="we8sBcvKA32T3TL_2Bq6-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" as="sourcePoint" />
+            <mxPoint x="5" y="10.000000000000114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-43" value="Monster&#39;s Dex lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="753" width="60" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-44" value="Monster&#39;s Dex lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="589" y="381.5" width="60" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="649" y="365" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-46" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-45">
+          <mxGeometry width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-47" value="The percentage of completed tasks in the dex for the monster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-45">
+          <mxGeometry x="25" y="1" width="105" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-48" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="780" y="360" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-49" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-48">
+          <mxGeometry width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-50" value="If 0 then this value will be negative" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-48">
+          <mxGeometry x="25" y="1" width="65" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="700" y="760" width="10" height="10.000000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="we8sBcvKA32T3TL_2Bq6-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="4.830000000000155" as="sourcePoint" />
+            <mxPoint x="10" y="4.830000000000155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="we8sBcvKA32T3TL_2Bq6-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" as="sourcePoint" />
+            <mxPoint x="5" y="10.000000000000114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-54" value="Monster&#39;s Respect lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="753" width="60" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-55" value="Monster&#39;s Respect lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="462.25" width="60" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="450" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-57" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-56">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-58" value="Similar to friendship in pkmn." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-56">
+          <mxGeometry x="25" y="0.8333333333333334" width="65" height="49.16666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="730" y="450" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-60" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-59">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-61" value="increases with wins and lvl ups" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-59">
+          <mxGeometry x="25" y="0.8333333333333334" width="65" height="49.16666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="820" y="450" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-63" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-62">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-64" value="decreases with loses and KOs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-62">
+          <mxGeometry x="25" y="0.8333333333333334" width="65" height="49.16666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-65" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="741.5" width="20" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-67" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="860" y="740" width="20" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="763" width="10" height="10.000000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="we8sBcvKA32T3TL_2Bq6-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="4.830000000000155" as="sourcePoint" />
+            <mxPoint x="10" y="4.830000000000155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="we8sBcvKA32T3TL_2Bq6-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" as="sourcePoint" />
+            <mxPoint x="5" y="10.000000000000114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-73" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="605.75" y="572.25" width="20" height="481.5" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-74" value="Repeated for each monster on adventure team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560.75" y="830" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-75" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="790" y="760" width="10" height="10.000000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="we8sBcvKA32T3TL_2Bq6-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="4.830000000000155" as="sourcePoint" />
+            <mxPoint x="10" y="4.830000000000155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-77" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="we8sBcvKA32T3TL_2Bq6-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" as="sourcePoint" />
+            <mxPoint x="5" y="10.000000000000114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-78" value="Gear &amp;amp; equipment lvls" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="807.5" y="750.25" width="60" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-79" value="Gear &amp;amp; equipment lvls" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="544.5" width="60" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-80" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="530" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-81" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-80">
+          <mxGeometry width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-82" value="equips can help lower cost of using monster based on attribute of equip" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-80">
+          <mxGeometry x="25" y="0.9959999999999999" width="105" height="59.004" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="780" y="535" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-84" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-83">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-85" value="&quot;Badges&quot; also help based on the badge type" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-83">
+          <mxGeometry x="25" y="0.83" width="105" height="49.17" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-86" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="762.8400000000001" as="sourcePoint" />
+            <mxPoint x="895" y="762.8400000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-88" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="766.4200000000001" as="sourcePoint" />
+            <mxPoint x="895" y="766.4200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-89" value="Trainer&#39;s Control lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="747.25" width="60" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-90" value="Trainer&#39;s Control lvl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585.75" y="610" width="60" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-91" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="600" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-92" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-91">
+          <mxGeometry width="65.21739130434783" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-93" value="the amount remaining of the trainer&#39;s capasity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-91">
+          <mxGeometry x="32.608695652173914" y="1" width="84.78260869565217" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-94" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="770" y="600" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-95" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-94">
+          <mxGeometry width="65.21739130434783" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-96" value="&amp;gt; 0 means all monsters in adventure team will obey" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-94">
+          <mxGeometry x="32.608695652173914" y="1" width="84.78260869565217" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-97" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="884" y="603.75" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-98" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-97">
+          <mxGeometry width="65.21739130434783" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-99" value="&amp;lt; or = 0 means monsters will start to disobey" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-97">
+          <mxGeometry x="32.608695652173914" y="0.8333333333333334" width="84.78260869565217" height="49.16666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-100" value="Need to figure out how to determine that percentage" style="shape=display;whiteSpace=wrap;html=1;fontSize=8;align=right;strokeColor=#C3ABD0;fontColor=#C3ABD0;size=0.1111111111111111;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="608.75" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-101" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1004" y="610" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-102" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-101">
+          <mxGeometry width="65.21739130434783" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we8sBcvKA32T3TL_2Bq6-103" value="percentage chance they will disobey" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="we8sBcvKA32T3TL_2Bq6-101">
+          <mxGeometry x="32.608695652173914" y="0.6666666666666667" width="84.78260869565217" height="39.33333333333334" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

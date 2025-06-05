@@ -1,0 +1,22 @@
+class_name SubType
+
+enum name {
+	STONE,
+	METAL,
+	SOIL,
+	SEA,
+	FRESH,
+	ICE,
+	HIDROPHYE,
+	XERPHILE,
+	EMBRYOPHYA,
+	FIRE,
+	AIR,
+	ELECTIC,
+	POISION,
+	FUNGLE,
+	PARACITIC,
+	LIGHT,
+	SPRITUAL,
+	DARK
+}
